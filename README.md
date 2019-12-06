@@ -1,5 +1,5 @@
 # An online bookstore.
 
-Collaborators:
+Collaborators:  
 •	Adam W. || Klaviam  
 •	Erik L. || TheAntiLuck
