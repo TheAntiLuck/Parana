@@ -1,7 +1,5 @@
-# CPSC 332: Fall 2018 - Online Book Store
+# An online bookstore.
 
-Group Members:
-
-  Adam Weesner - aweesner@csu.fullerton.edu
-  
-  Erik Lipsky - eriklipsky@csu.fullerton.edu
+Collaborators:
+•	Adam W. || Klaviam  
+•	Erik L. || TheAntiLuck
